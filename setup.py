@@ -159,6 +159,7 @@ setup(
         "thumbnails": ["Pillow>=7.0.0, <8.0.0"],
         "vertica": ["sqlalchemy-vertica-python>=0.5.9, < 0.6"],
         "netezza": ["nzalchemy>=11.0.2"],
+        "firebolt": ["firebolt>=0.0.1"],
     },
     python_requires="~=3.7",
     author="Apache Software Foundation",
